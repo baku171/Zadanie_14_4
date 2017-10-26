@@ -1,0 +1,17 @@
+{
+  "name": "zadanie14_4",
+  "version": "1.0.0",
+  "description": "Zadanie 14.4",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react"
+  ],
+  "author": "baku171",
+  "license": "ISC",
+  "dependencies": {
+    "@types/react": "^16.0.18"
+  }
+}
